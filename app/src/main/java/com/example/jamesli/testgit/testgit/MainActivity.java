@@ -15,15 +15,6 @@ public class MainActivity extends AppCompatActivity {
         //333
         //555
         //666
-        //777
-        //888
-        //009
-        //010
-        //011
-        //012
-        //013
-        //014
-        //015
         //019
         //020
     }
