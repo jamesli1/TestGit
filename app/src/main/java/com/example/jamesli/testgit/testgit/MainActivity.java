@@ -7,9 +7,10 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
+        super.onCreate(savedInstanceState);addasdasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdfasdf
         setContentView(R.layout.activity_main);
 
+        int i = this.checkSelfPermission("111");
         //111
         //222
         //333
@@ -18,5 +19,6 @@ public class MainActivity extends AppCompatActivity {
         //019
         //0202
         //666
+        //888
     }
 }
